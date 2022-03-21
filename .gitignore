@@ -1,0 +1,7 @@
+# random shit i made for testing the public doesnt need to see lol
+*.log
+*.txt
+*.py
+
+# this one is pretty obvious
+build/*
