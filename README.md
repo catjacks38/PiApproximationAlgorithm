@@ -8,11 +8,11 @@ A Wikipedia explanation of Machin-like formulas: [5head Wikipedia article](https
 ### Short Version
 I used this formula for approximating π:
 
-![dont be fooled by the simplicity](https://wikimedia.org/api/rest_v1/media/math/render/svg/ba362ff207097dc35ca873f9a16bcda21a96b278)
+![dont be fooled by the simplicity](mathImages/machinLikeFormula.png)
 
 I used this formula for approximating arctan(x):
 
-![told u this was gonna get more complex](https://wikimedia.org/api/rest_v1/media/math/render/svg/649f3403362cb7c587460ba832324a76982a6a58)
+![told u this was gonna get more complex](mathImages/arctanApproximationFormula.png)
 
 ## Compilation
 Literally just the command `make` in the project directory—pretty simple. Executables will be saved to `./build`.
