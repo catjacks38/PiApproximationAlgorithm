@@ -3,7 +3,7 @@
 
 int main(int argc, char* argv[])
 {
-	int digits;
+	unsigned int digits;
         // argument checking
 	if (argc == 3)
 		sscanf(argv[2], "%lu", &digits);
